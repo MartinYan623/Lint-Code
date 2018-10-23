@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a16ede49-9a50-4d83-9e37-5790ea4b3a04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1148LongestHarmoniousSubsequence.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1178StudentAttendanceRecordI.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1209ConstructtheRectangle.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/Easy/1000+/1028RotatedDigits.py" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1028RotatedDigits.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/Easy/1000+/1119MaximumProductofThreeNumbers.py" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1119MaximumProductofThreeNumbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/Easy/1000+/1617ArrayMaximumDifference.py" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1617ArrayMaximumDifference.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Unit Test" />
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -31,9 +31,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm/Easy/1615TheResultofInvestment.py" />
-        <option value="$PROJECT_DIR$/Algorithm/Easy/1078DegreeofanArray.py" />
-        <option value="$PROJECT_DIR$/Algorithm/Easy/a.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1385LuckyNumberEight.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1564IntervalSearch.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/766LeapYear.py" />
@@ -82,11 +79,14 @@
         <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1148LongestHarmoniousSubsequence.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1178StudentAttendanceRecordI.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1209ConstructtheRectangle.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1028RotatedDigits.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1617ArrayMaximumDifference.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1119MaximumProductofThreeNumbers.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
+    <option name="x" value="13" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
@@ -125,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,12 +133,29 @@
               <item name="Lint-Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lint-Code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Lint-Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lint-Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lint-Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lint-Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lint-Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lint-Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="1000+" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,9 +251,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="23" width="1440" height="804" extended-state="0" />
+    <frame x="13" y="23" width="1440" height="804" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -263,27 +281,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1-1000/468SymmetricBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1-1000/765ValidTriangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1-1000/888ValidWordSquare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1-1000/987BinaryNumberwithAlternatingBits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -629,6 +626,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1000+/1028RotatedDigits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1000+/1617ArrayMaximumDifference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1000+/1119MaximumProductofThreeNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
