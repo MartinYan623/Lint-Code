@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a16ede49-9a50-4d83-9e37-5790ea4b3a04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1199PerfectNumber.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1214LicenseKeyFormatting.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1227RepeatedSubstringPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1-1000/209FirstUniqueCharacterinaString.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1143MinimumIndexSumofTwoLists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/Easy/1000+/1200RelativeRanks.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,9 +31,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm/Easy/764CalculateCircumferenceAndArea.py" />
-        <option value="$PROJECT_DIR$/Algorithm/Easy/1314PowerofTwo.py" />
-        <option value="$PROJECT_DIR$/Algorithm/Easy/952DigitalProblem.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1138CanPlaceFlowers.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1266FindtheDifference.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1480DotProduct.py" />
@@ -82,10 +79,14 @@
         <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1214LicenseKeyFormatting.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1227RepeatedSubstringPattern.py" />
         <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1199PerfectNumber.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1143MinimumIndexSumofTwoLists.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Easy/1000+/1200RelativeRanks.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Easy/1-1000/209FirstUniqueCharacterinaString.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="35" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
@@ -124,8 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,12 +148,14 @@
               <item name="Lint-Code" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Easy" type="462c0819:PsiDirectoryNode" />
-              <item name="1000+" type="462c0819:PsiDirectoryNode" />
+              <item name="1-1000" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,9 +251,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="804" extended-state="0" />
+    <frame x="35" y="23" width="1440" height="804" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -280,27 +281,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1-1000/835HammingDistance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1-1000/766LeapYear.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1-1000/916PalindromePermutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1000+/1005LargestTriangleArea.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -635,6 +615,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1000+/1143MinimumIndexSumofTwoLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1000+/1200RelativeRanks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Easy/1-1000/209FirstUniqueCharacterinaString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
