@@ -18,4 +18,8 @@ class Rectangle:
         area = self.width * self.height
         return area
 
+<<<<<<< HEAD
 # Naive level to use python and define function
+=======
+# Naive level to use python and define function
+>>>>>>> develop
