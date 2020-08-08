@@ -21,3 +21,5 @@ class Solution:
             self.node = root
         self.max(root.left)
         self.max(root.right)
+
+# This is a question about binary tree data structure
