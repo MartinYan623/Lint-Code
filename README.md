@@ -14,4 +14,4 @@
 2020.08.09
 
 - 22.Flatten List (Easy)
--
+- 28.Search A 2D Matrix (Easy)

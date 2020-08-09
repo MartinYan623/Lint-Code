@@ -24,4 +24,4 @@ class Solution:
             s.insert(0, s.pop())
 
 # This is a question to rotate string -> which is also a math question
-# Method 2 uses the stack
+# Method 2 uses the stack and insert method of string (insert a element at position 0 everytime)
