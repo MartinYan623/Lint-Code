@@ -14,9 +14,6 @@ class Solution:
             num.append(num[-1] + num[-2])
         return num[-1]
 
-<<<<<<< HEAD
-# This is a  presentation about typical fibonacci sequence
-=======
 
 # This is a  presentation about typical fibonacci sequence
->>>>>>> develop
+

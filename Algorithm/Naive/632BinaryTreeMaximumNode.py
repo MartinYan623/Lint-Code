@@ -22,8 +22,6 @@ class Solution:
         self.max(root.left)
         self.max(root.right)
 
-<<<<<<< HEAD
+
 # This is a question about binary tree data structure
-=======
-# This is a question about binary tree data structure
->>>>>>> develop
+

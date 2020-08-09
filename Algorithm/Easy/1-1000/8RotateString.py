@@ -22,3 +22,6 @@ class Solution:
             return s
         for i in range(offset % len(s)):
             s.insert(0, s.pop())
+
+# This is a question to rotate string -> which is also a math question
+# Method 2 uses the stack

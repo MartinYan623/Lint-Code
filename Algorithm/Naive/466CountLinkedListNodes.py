@@ -23,8 +23,6 @@ class Solution:
             cur = cur.next
         return count
 
-<<<<<<< HEAD
+
 # This is about linked list data structure
-=======
-# This is about linked list data structure
->>>>>>> develop
+
