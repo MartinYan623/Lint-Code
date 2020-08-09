@@ -7,7 +7,6 @@ Meanwhile, you can apply to join the question group, and you could get stronger 
 ## Table of Contents
 - <a href='#Background'>Background</a>
 - <a href='#Complete Logs'>Complete Logs</a>
-- <a href='#Related Efforts'>Related Efforts</a>
 - <a href='#Maintainers'>Maintainers</a>
 - <a href='#License'>License</a>
 
