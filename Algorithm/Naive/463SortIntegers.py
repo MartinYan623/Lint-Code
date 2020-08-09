@@ -15,4 +15,3 @@ class Solution:
                     A[i + 1] = temp
             length -= 1
 
-# This is a question about sort

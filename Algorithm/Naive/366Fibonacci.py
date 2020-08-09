@@ -15,5 +15,4 @@ class Solution:
         return num[-1]
 
 
-# This is a  presentation about typical fibonacci sequence
 

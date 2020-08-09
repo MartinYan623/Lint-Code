@@ -22,7 +22,3 @@ class Solution:
                 return True
         return False
 
-# First search the element by row to know which row includes it
-# And then search the element by column one by one
-# Time complexity is O(m)+O(n)
-# If you want to reduce the time complexity to O(log(m)+log(n)), you need to use binary search

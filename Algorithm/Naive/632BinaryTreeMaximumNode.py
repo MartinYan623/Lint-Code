@@ -23,5 +23,4 @@ class Solution:
         self.max(root.right)
 
 
-# This is a question about binary tree data structure
 

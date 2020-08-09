@@ -36,5 +36,3 @@ class Solution(object):
                 it = s.pop()
         return result
 
-# This is question to achieve the typical function flatten()
-# Method1 uses the recursion and method2 uses iteration object (next method to get next one element in list)

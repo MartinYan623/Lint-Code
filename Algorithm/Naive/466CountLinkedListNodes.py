@@ -24,5 +24,5 @@ class Solution:
         return count
 
 
-# This is about linked list data structure
+
 

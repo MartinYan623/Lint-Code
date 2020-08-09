@@ -19,5 +19,5 @@ class Rectangle:
         return area
 
 
-# Naive level to use python and define function
+
 
