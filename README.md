@@ -42,4 +42,4 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 If you have any problem, please feel free to contact author.
 
 ## <a name='License'>License</a>
-[MIT](https://github.com/MartinYan623/Lint-Code/blob/master/README.md) © Martin Yan
+[MIT](https://github.com/MartinYan623/Lint-Code/blob/master/LICENSE) © Martin Yan
