@@ -15,3 +15,4 @@
 
 - 22.Flatten List (Easy)
 - 28.Search A 2D Matrix (Easy)
+- 39.Recover Rotated Sorted Array (Easy)
