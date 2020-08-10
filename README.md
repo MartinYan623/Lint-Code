@@ -37,6 +37,12 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 - 28.Search A 2D Matrix (Easy)
 - 39.Recover Rotated Sorted Array (Easy)
 
+2020.08.10
+
+- 53.Reverse Words In a String (Easy)
+- 55.Compare Strings (Easy)
+- 60.Search Insert Position (Easy)
+
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
 If you have any problem, please feel free to contact author.
