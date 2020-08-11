@@ -43,6 +43,11 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 - 55.Compare Strings (Easy)
 - 60.Search Insert Position (Easy)
 
+2020.08.11
+
+- 128.Hash Function
+- 141.Sqrt(x)
+
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
 If you have any problem, please feel free to contact author.
