@@ -45,8 +45,13 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 
 2020.08.11
 
-- 128.Hash Function
-- 141.Sqrt(x)
+- 128.Hash Function (Easy)
+- 141.Sqrt(x) (Easy)
+
+2020.08.12
+
+-155.Minimum Depth Of Binary Tree (Easy)
+-156.Merge Intervals (Easy)
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
