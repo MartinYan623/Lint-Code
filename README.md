@@ -1,6 +1,6 @@
 # Lint-Code
 
-This is a project to record my code of algorithm questions in LintCode. The basic plan is to write down 3 questions every day.
+This is a project to record my code of algorithm questions in LintCode. The basic plan is to write down 2 or 3 questions every day.
 If you are also interested to challenge the algorithm questions, welcome to follow me in [LintCode](https://www.lintcode.com/user/Martin_Yan).
 Meanwhile, you can apply to join the question group, and you could get stronger 💪 with other mates in group.
 
@@ -52,6 +52,11 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 
 -155.Minimum Depth Of Binary Tree (Easy)
 -156.Merge Intervals (Easy)
+
+2020.08.17
+
+- 167.Add Two Numbers (Easy)
+- 174.Remove Nth Node From End of List (Easy)
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
