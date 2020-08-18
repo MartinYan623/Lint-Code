@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/language-Python-blue.svg" />
     <img src="https://img.shields.io/github/license/MartinYan623/Lint-Code" />
     <img src="https://img.shields.io/github/commit-activity/m/MartinYan623/Lint-Code" />
-    [<img src="https://img.shields.io/badge/contact-LintCode-green" />](https://www.lintcode.com/user/Martin_Yan)
+    <a href="https://www.lintcode.com/user/Martin_Yan"><img src="https://img.shields.io/badge/contact-LintCode-green" /></a>
 </p>
 
 This is a project to record my code of algorithm questions in LintCode. The basic plan is to write down 2 or 3 questions every day.
