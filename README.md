@@ -58,6 +58,11 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 - 167.Add Two Numbers (Easy)
 - 174.Remove Nth Node From End of List (Easy)
 
+2020.08.18
+
+-188.Inset Five (Easy)
+-212.Space Replacement (Easy)
+
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
 If you have any problem, please feel free to contact author.
