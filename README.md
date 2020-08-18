@@ -1,4 +1,8 @@
 # Lint-Code
+<img src="https://img.shields.io/badge/language-Python-blue.svg" />
+<img src="https://img.shields.io/github/commit-activity/m/MartinYan623/Lint-Code" />
+<img src="https://img.shields.io/github/license/MartinYan623/Lint-Code" />
+
 
 This is a project to record my code of algorithm questions in LintCode. The basic plan is to write down 2 or 3 questions every day.
 If you are also interested to challenge the algorithm questions, welcome to follow me in [LintCode](https://www.lintcode.com/user/Martin_Yan).
@@ -50,8 +54,8 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 
 2020.08.12
 
--155.Minimum Depth Of Binary Tree (Easy)
--156.Merge Intervals (Easy)
+- 155.Minimum Depth Of Binary Tree (Easy)
+- 156.Merge Intervals (Easy)
 
 2020.08.17
 
@@ -60,8 +64,8 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 
 2020.08.18
 
--188.Inset Five (Easy)
--212.Space Replacement (Easy)
+- 188.Inset Five (Easy)
+- 212.Space Replacement (Easy)
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
