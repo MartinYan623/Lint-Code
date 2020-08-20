@@ -69,6 +69,10 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 - 188.Inset Five (Easy)
 - 212.Space Replacement (Easy)
 
+2020.08.19
+
+- 296.Unique Array (Easy)
+
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
 If you have any problem, please feel free to contact author.
