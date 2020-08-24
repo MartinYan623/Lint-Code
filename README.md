@@ -73,6 +73,10 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 
 - 296.Unique Array (Easy)
 
+2020.08.20
+
+- 260.Same Diagonal Elements (Easy)
+
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
 If you have any problem, please feel free to contact author.
