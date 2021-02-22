@@ -51,7 +51,6 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 22 | 2020.08.29 | 468.Symmetric Binary Elements | Easy
 | 23 | 2020.08.29 | 296.Unique Array | Easy
 | 24 | 2020.08.29 | 56.TwoSum | Easy
-
 | 25 | 2020.08.30 | 260.Same Diagonal Elements | Easy
 | 26 | 2020.08.30 | 2.Trailing Zeros | Easy
 | 27 | 2020.08.30 | 78.Linked List Weighted Sum In Reverse Order | Easy
@@ -73,41 +72,24 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 43 | 2020.09.16 | 993.Array Partition I | Easy
 | 44 | 2020.09.16 | 1005.Largest Triangle Area | Easy
 | 45 | 2020.09.16 | 1011.Number of Lines To Write String | Easy
+| 46 | 2020.09.17 | 1013.Unique Morse Code Words | Easy
+| 47 | 2020.09.17 | 1028.Rotated Digits | Easy
+| 48 | 2020.09.17 | 1038.Jewels And Stones | Easy
+| 49 | 2020.09.22 | 1042.Toeplitz Matrix | Easy
+| 50 | 2020.09.22 | 1046.Prime Number of Set Bits in Binary Representation | Easy
+| 51 | 2020.09.22 | 1054.MinCost Climbing Stairs | Easy
+| 52 | 2020.09.29 | 1056.Find Smallest Letter Greater Than Target | Easy
+| 53 | 2020.09.29 | 1062.Flood Fill | Easy
+| 54 | 2020.09.29 | 1078.Degree of an Array | Easy
+| 55 | 2020.10.08 | 1094.Second Minimum Node In a Binary Tree | Easy
+| 56 | 2020.10.08 | 1104.Judge Route Circle | Easy
+| 57 | 2020.10.08 | 1119.Maximum Product of Three Numbers | Easy
+| 58 | 2020.10.11 | 1126.Merge Two Binary Trees | Easy
+| 59 | 2020.10.11 | 1137.Construct String from Binary Tree | Easy
 
-2020.09.16
+| 60 | 2020.10.11 | 1104.Judge Route Circle | Easy
 
-- 993.Array Partition I (Easy)
-- 1005.Largest Triangle Area (Easy)
-- 1011.Number of Lines To Write String (Easy)
 
-2020.09.17
-
-- 1013.Unique Morse Code Words (Easy)
-- 1028.Rotated Digits (Easy)
-- 1038.Jewels And Stones (Easy)
-
-2020.09.22
-
-- 1042.Toeplitz Matrix (Easy)
-- 1046.Prime Number of Set Bits in Binary Representation (Easy)
-- 1054.MinCost Climbing Stairs (Easy)
-
-2020.09.29
-
-- 1056.Find Smallest Letter Greater Than Target (Easy)
-- 1062.Flood Fill (Easy)
-- 1078.Degree of an Array (Easy)
-
-2020.10.08
-
-- 1094.Second Minimum Node In a Binary Tree (Easy)
-- 1104.Judge Route Circle (Easy)
-- 1119.Maximum Product of Three Numbers (Easy)
-
-2020.10.11
-
-- 1126.Merge Two Binary Trees (Easy)
-- 1137.Construct String from Binary Tree (Easy)
 
 2020.10.21
 
