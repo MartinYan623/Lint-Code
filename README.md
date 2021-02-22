@@ -86,67 +86,35 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 57 | 2020.10.08 | 1119.Maximum Product of Three Numbers | Easy
 | 58 | 2020.10.11 | 1126.Merge Two Binary Trees | Easy
 | 59 | 2020.10.11 | 1137.Construct String from Binary Tree | Easy
+| 60 | 2020.10.21 | 1138.Can Place Flowers | Easy
+| 61 | 2020.10.21 | 1143.Minimum Index Sum of Two Lists | Easy
+| 62 | 2020.10.21 | 1144.Range Addition II | Easy
+| 63 | 2020.10.22 | 1148.Longest Harmonious Subsequence | Easy
+| 64 | 2020.10.22 | 1163.Distribute Candies | Easy
+| 65 | 2020.10.25 | 1165.Subtree of Another Tree | Easy
+| 66 | 2020.10.25 | 1172.Binary Tree Tilt | Easy
+| 67 | 2020.10.25 | 1173.Reverse Words in a String III | Easy
+| 68 | 2020.10.29 | 1178.Student Attendance Record I | Easy
+| 69 | 2020.10.29 | 1181.Diameter of Binary Tree | Easy
+| 70 | 2020.11.05 | 1188.Minimum Absolute Difference in BST | Easy
+| 71 | 2020.11.05 | 1193.Detect Capital | Easy
+| 72 | 2020.11.05 | 1199.Perfect Number | Easy
+| 73 | 2020.11.06 | 1200.Relative Ranks | Easy
+| 74 | 2020.11.06 | 1204.Keyboard Row | Easy
+| 75 | 2020.11.06 | 1206.Next Greater Element I | Easy
+| 76 | 2020.11.17 | 1209.Construct the Rectangle | Easy
+| 77 | 2020.11.17 | 1214.License Key Formatting | Easy
+| 78 | 2020.11.19 | 1218.Number Complement | Easy
+| 79 | 2020.11.19 | 1225.Island Perimeter | Easy
+| 80 | 2020.11.19 | 1227.Repeated Substring Pattern | Easy
+| 81 | 2020.11.22 | 1228.Poor Pigs | Easy
+| 82 | 2020.11.22 | 1231.Minimum Moves to Equal Array Elements | Easy
+| 83 | 2020.11.22 | 1236.Find All Numbers Disappeared in an Arrayr | Easy
+| 84 | 2020.11.30 | 1254.Sum of Left Leaves | Easy
+| 85 | 2020.11.30 | 1266.Find the Difference | Easy
+| 86 | 2020.11.30 | 1270.Ransom Note | Easy
 
-| 60 | 2020.10.11 | 1104.Judge Route Circle | Easy
 
-
-
-2020.10.21
-
-- 1138.Can Place Flowers (Easy)
-- 1143.Minimum Index Sum of Two Lists (Easy)
-- 1144.Range Addition II (Easy)
-
-2020.10.22
-
-- 1148.Longest Harmonious Subsequence (Easy)
-- 1163.Distribute Candies (Easy)
-
-2020.10.25
-
-- 1165.Subtree of Another Tree (Easy)
-- 1172.Binary Tree Tilt (Easy)
-- 1173.Reverse Words in a String III (Easy)
-
-2020.10.29
-
-- 1178.Student Attendance Record I (Easy)
-- 1181.Diameter of Binary Tree (Easy)
-
-2020.11.05
-
-- 1188.Minimum Absolute Difference in BST (Easy)
-- 1193.Detect Capital (Easy)
-- 1199.Perfect Number (Easy)
-
-2020.11.06
-
-- 1200.Relative Ranks (Easy)
-- 1204.Keyboard Row (Easy)
-- 1206.Next Greater Element I (Easy)
-
-2020.11.17
-
-- 1209.Construct the Rectangle (Easy)
-- 1214.License Key Formatting (Easy)
-
-2020.11.19
-
-- 1218.Number Complement (Easy)
-- 1225.Island Perimeter (Easy)
-- 1227.Repeated Substring Pattern (Easy)
-
-2020.11.22
-
-- 1228.Poor Pigs
-- 1231.Minimum Moves to Equal Array Elements (Easy)
-- 1236.Find All Numbers Disappeared in an Array (Easy)
-
-2020.11.30
-
-- 1254.Sum of Left Leaves (Easy)
-- 1266.Find the Difference (Easy)
-- 1270.Ransom Note (Easy)
 
 
 2020.12.01
