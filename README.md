@@ -113,49 +113,25 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 84 | 2020.11.30 | 1254.Sum of Left Leaves | Easy
 | 85 | 2020.11.30 | 1266.Find the Difference | Easy
 | 86 | 2020.11.30 | 1270.Ransom Note | Easy
+| 87 | 2020.12.01 | 1285.Power of Four | Easy
+| 88 | 2020.12.01 | 1294.Power of Three | Easy
+| 89 | 2020.12.01 | 1314.Power of Two | Easy
+| 90 | 2020.12.12 | 1320.Contains Duplicate | Easy
+| 91 | 2020.12.12 | 1332.Number of 1 Bits | Easy
+| 92 | 2020.12.12 | 1347.Factorial Trailing Zeroes | Easy
+| 93 | 2020.12.18 | 1348.Excel Sheet Column Number | Easy
+| 94 | 2020.12.18 | 1360.Symmetric Tree | Easy
+| 95 | 2020.12.18 | 1385.Lucky Number Eight | Easy
+| 96 | 2020.12.24 | 1394.Goat Latin | Easy
+| 97 | 2020.12.24 | 1459.Judge the Last Number | Easy
+| 98 | 2020.12.27 | 1471.Set Operation | Easy
+| 99 | 2020.12.27 | 1480.Dot Product | Easy
+| 100 | 2020.12.27 | 1546.Coin Problem | Easy
+| 101 | 2020.12.28 | 1564.Interval Search | Easy
+| 102 | 2020.12.28 | 1585.Moving Stones | Easy
+| 103 | 2020.12.30 | 1615.The Result of Investment | Easy
+| 104 | 2020.12.30 | 1617.Array Maximum Difference | Easy
 
-
-
-
-2020.12.01
-
-- 1285.Power of Four (Easy)
-- 1294.Power of Three (Easy)
-- 1314.Power of Two (Easy)
-
-
-2020.12.12
-
-- 1320.Contains Duplicate (Easy)
-- 1332.Number of 1 Bits (Easy)
-- 1347.Factorial Trailing Zeroes (Easy)
-
-2020.12.18
-
-- 1348.Excel Sheet Column Number (Easy)
-- 1360.Symmetric Tree (Easy)
-- 1385.Lucky Number Eight (Easy)
-
-2020.12.24
-
-- 1394.Goat Latin
-- 1459.Judge the Last Number
-
-2020.12.27
-
-- 1471.Set Operation
-- 1480.Dot Product
-- 1546.Coin Problem
-
-2020.12.28
-
-- 1564.Interval Search
-- 1585.Moving Stones
-
-2020.12.30
-
-- 1615.The Result of Investment
-- 1617.Array Maximum Difference
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
