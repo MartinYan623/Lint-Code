@@ -25,92 +25,54 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 
 ## 🔖 <a name ='Complete Logs'>Complete Logs</a>
 
-| Index | Day | Question Title | Level |
-| ------ | ------ | ------ | ------ |
+| Index | Day | <div style="width:300">Question Title </div> | Level |
+| ------ | ------ | ---------- | ------ |
 | 1 | 2020.08.07 | 366.Fibonacci | Naive
 | 2 | 2020.08.07 | 454.Rectangle Area | Naive
 | 3 | 2020.08.07 | 463.Sort Integers | Naive
+| 4 | 2020.08.12 | 466.Count Linked List Nodes | Naive
+| 5 | 2020.08.12 | 632.Binary Tree Maximum Nodes </div>| Naive
+| 6 | 2020.08.12 | 8.Rotate String | Easy
+| 7 | 2020.08.13 | 22.Flatten List | Easy
+| 8 | 2020.08.13 | 28.Search A 2D Matrix | Easy
+| 9 | 2020.08.13 | 39.Recover Rotated Sorted Array | Easy
+| 10 | 2020.08.14 | 53.Reverse Words In a String | Easy
+| 11 | 2020.08.14 | 55.Compare Strings | Easy
+| 12 | 2020.08.14 | 60.Search Insert Position | Easy
+| 13 | 2020.08.16 | 128.Hash Function | Easy
+| 14 | 2020.08.16 | 141.Sqrt(x) | Easy
+| 15 | 2020.08.18 | 155.Minimum Depth Of Binary Tree | Easy
+| 16 | 2020.08.18 | 156.Merge Intervals | Easy
+| 17 | 2020.08.23 | 167.Add Two Numbers | Easy
+| 18 | 2020.08.23 | 174.Remove Nth Node From End of List | Easy
+| 19 | 2020.08.25 | 188.Inset Five | Easy
+| 20 | 2020.08.25 | 209.First Unique Character in a String | Easy
+| 21 | 2020.08.25 | 212.Space Replacement | Easy
+| 22 | 2020.08.29 | 468.Symmetric Binary Elements | Easy
+| 23 | 2020.08.29 | 296.Unique Array | Easy
+| 24 | 2020.08.29 | 56.TwoSum | Easy
 
-2020.08.12
-
-- 466.Count Linked List Nodes (Naive)
-- 632.Binary Tree Maximum Nodes (Naive)
-- 8.Rotate String (Easy)
-
-2020.08.13
-
-- 22.Flatten List (Easy)
-- 28.Search A 2D Matrix (Easy)
-- 39.Recover Rotated Sorted Array (Easy)
-
-2020.08.14
-
-- 53.Reverse Words In a String (Easy)
-- 55.Compare Strings (Easy)
-- 60.Search Insert Position (Easy)
-
-2020.08.16
-
-- 128.Hash Function (Easy)
-- 141.Sqrt(x) (Easy)
-
-2020.08.18
-
-- 155.Minimum Depth Of Binary Tree (Easy)
-- 156.Merge Intervals (Easy)
-
-2020.08.23
-
-- 167.Add Two Numbers (Easy)
-- 174.Remove Nth Node From End of List (Easy)
-
-2020.08.25
-
-- 188.Inset Five (Easy)
-- 209.First Unique Character in a String (Easy)
-- 212.Space Replacement (Easy)
-
-2020.08.29
-
-- 468.Symmetric Binary Elements (Easy)
-- 296.Unique Array (Easy)
-- 56.TwoSum (Easy)
-
-2020.08.30
-
-- 260.Same Diagonal Elements (Easy)
-- 2.Trailing Zeros (Easy)
-- 78.Linked List Weighted Sum In Reverse Order (Easy)
-
-2020.08.31
-
-- 524.Left Pad (Easy)
-- 764.Calculate Circumference And Area (Easy)
-- 765.Valid Triangle (Easy)
-
-2020.09.02
-
-- 766.Leap Year (Easy)
-- 767.Reverse Array (Easy)
-- 771.Double Factorial (Easy)
-
-2020.09.03
-
-- 813.Find Anagram Mappings (Easy)
-- 835.Hamming Distance (Easy)
-- 845.Greatest Common Divisor (Easy)
-
-2020.09.08
-
-- 888.Valid Word Square (Easy)
-- 914.Flip Game (Easy)
-- 916.Palindrome Permutation (Easy)
-
-2020.09.12
-
-- 952.Digital Problem (Easy)
-- 977.Base7 (Easy)
-- 987.Binary Number with Alternating Bits (Easy)
+| 25 | 2020.08.30 | 260.Same Diagonal Elements | Easy
+| 26 | 2020.08.30 | 2.Trailing Zeros | Easy
+| 27 | 2020.08.30 | 78.Linked List Weighted Sum In Reverse Order | Easy
+| 28 | 2020.08.31 | 524.Left Pad | Easy
+| 29 | 2020.08.31 | 764.Calculate Circumference And Area | Easy
+| 30 | 2020.08.31 | 765.Valid Triangle | Easy
+| 31 | 2020.09.02 | 766.Leap Year | Easy
+| 32 | 2020.09.02 | 767.Reverse Array | Easy
+| 33 | 2020.09.02 | 771.Double Factorial | Easy
+| 34 | 2020.09.03 | 813.Find Anagram Mappings | Easy
+| 35 | 2020.09.03 | 835.Hamming Distance | Easy
+| 36 | 2020.09.03 | 845.Greatest Common Divisor | Easy
+| 37 | 2020.09.08 | 888.Valid Word Square | Easy
+| 38 | 2020.09.08 | 914.Flip Game | Easy
+| 39 | 2020.09.08 | 916.Palindrome Permutation | Easy
+| 40 | 2020.09.12 | 952.Digital Problem | Easy
+| 41 | 2020.09.12 | 977.Base7 | Easy
+| 42 | 2020.09.12 | 987.Binary Number with Alternating Bits | Easy
+| 43 | 2020.09.16 | 993.Array Partition I | Easy
+| 44 | 2020.09.16 | 1005.Largest Triangle Area | Easy
+| 45 | 2020.09.16 | 1011.Number of Lines To Write String | Easy
 
 2020.09.16
 
