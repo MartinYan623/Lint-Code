@@ -25,11 +25,11 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 
 ## 🔖 <a name ='Complete Logs'>Complete Logs</a>
 
-2020.08.07
-
-- 366.Fibonacci (Naive)
-- 454.Rectangle Area (Naive)
-- 463.Sort Integers (Naive)
+| Index | Day | Question Title | Level |
+| ------ | ------ | ------ | ------ |
+| 1 | 2020.08.07 | 366.Fibonacci | Naive
+| 2 | 2020.08.07 | 454.Rectangle Area | Naive
+| 3 | 2020.08.07 | 463.Sort Integers | Naive
 
 2020.08.12
 
