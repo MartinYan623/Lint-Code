@@ -100,6 +100,62 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 - 835.Hamming Distance (Easy)
 - 845.Greatest Common Divisor (Easy)
 
+2020.08.24
+
+- 888.Valid Word Square (Easy)
+- 914.Flip Game (Easy)
+- 916.Palindrome Permutation (Easy)
+
+2020.08.25
+
+- 952.Digital Problem (Easy)
+- 977.Base7 (Easy)
+- 987.Binary Number with Alternating Bits (Easy)
+
+2020.08.26
+
+- 993.Array Partition I (Easy)
+- 1005.Largest Triangle Area (Easy)
+- 1011.Number of Lines To Write String (Easy)
+
+2020.08.27
+
+- 1013.Unique Morse Code Words (Easy)
+- 1028.Rotated Digits (Easy)
+- 1038.Jewels And Stones (Easy)
+
+2020.08.28
+
+- 1042.Toeplitz Matrix (Easy)
+- 1046.Prime Number of Set Bits in Binary Representation (Easy)
+- 1054.MinCost Climbing Stairs (Easy)
+
+2020.08.29
+
+- 1056.Find Smallest Letter Greater Than Target (Easy)
+- 1062.Flood Fill (Easy)
+- 1078.Degree of an Array (Easy)
+
+2020.08.30
+
+- 1094.Second Minimum Node In a Binary Tree (Easy)
+- 1104.Judge Route Circle (Easy)
+- 1119.Maximum Product of Three Numbers (Easy)
+
+2020.08.31
+
+- 1126.Merge Two Binary Trees (Easy)
+- 1137.Construct String from Binary Tree (Easy)
+
+2020.09.01
+
+- 1138.Can Place Flowers (Easy)
+- 1143.Minimum Index Sum of Two Lists (Easy)
+- 1144.Range Addition II (Easy)
+
+2020.09.02
+- 1148.Longest Harmonious Subsequence (Easy)
+- 1163.Distribute Candies (Easy)
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
