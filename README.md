@@ -131,6 +131,14 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 102 | 2020.12.28 | 1585.Moving Stones | Easy
 | 103 | 2020.12.30 | 1615.The Result of Investment | Easy
 | 104 | 2020.12.30 | 1617.Array Maximum Difference | Easy
+| 105 | 2021.01.04 | 23.Is Alphanumeric | Naive
+| 106 | 2021.01.04 | 228.Middle of Linked List | Naive
+| 107 | 2021.01.04 | 297.Find the Maximum | Naive
+| 108 | 2021.01.05 | 298.Find Prime | Naive
+| 109 | 2021.01.05 | 1910.Most Numbers | Naive
+| 110 | 2021.01.07 | 37.Reverse 3-digit Integer | Naive
+| 111 | 2021.01.07 | 145.Lowercase to Uppercase | Naive
+| 112 | 2021.01.07 | 484.Swap Two Integers in Array | Naive
 
 
 ## <a name='Maintainers'>Maintainers</a>
