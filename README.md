@@ -8,7 +8,7 @@
 
 This is a project to record my code of algorithm questions in LintCode. The basic plan is to write down 2 or 3 questions every day.
 If you are also interested to challenge the algorithm questions, welcome to follow me in [LintCode](https://www.lintcode.com/user/Martin_Yan).
-Meanwhile, you can apply to join the question group, and you could get stronger 💪 with other mates in group.
+Meanwhile, you can apply to join the question group getting stronger 💪 with other mates in the group.
 
 ## Table of Contents
 - <a href='#Background'>Background</a>
@@ -20,7 +20,7 @@ Meanwhile, you can apply to join the question group, and you could get stronger 
 The algorithm problem is a key part in job interview for programmers 💻, to improve the ability of interview and pass it successfully,
 and it is necessary to study and practice algorithm questions usually.
 This project includes algorithm questions I have written down the level from naive to hard.
-If you are interested in algorithm problems, you could star 🌟 and watch 👀 this repository, which will be updated for a long time.
+If you are interested in algorithm problems, you could star 🌟 and watch 👀 this repository, which will be continuously updated.
 
 
 ## 🔖 <a name ='Complete Logs'>Complete Logs</a>
@@ -67,15 +67,39 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 2020.08.18
 
 - 188.Inset Five (Easy)
+- 209.First Unique Character in a String (Easy)
 - 212.Space Replacement (Easy)
 
 2020.08.19
 
+- 468.Symmetric Binary Elements (Easy)
 - 296.Unique Array (Easy)
+- 56.TwoSum (Easy)
 
 2020.08.20
 
 - 260.Same Diagonal Elements (Easy)
+- 2.Trailing Zeros (Easy)
+- 78.Linked List Weighted Sum In Reverse Order (Easy)
+
+2020.08.21
+
+- 524.Left Pad (Easy)
+- 764.Calculate Circumference And Area (Easy)
+- 765.Valid Triangle (Easy)
+
+2020.08.22
+
+- 766.Leap Year (Easy)
+- 767.Reverse Array (Easy)
+- 771.Double Factorial (Easy)
+
+2020.08.23
+
+- 813.Find Anagram Mappings (Easy)
+- 835.Hamming Distance (Easy)
+- 845.Greatest Common Divisor (Easy)
+
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
