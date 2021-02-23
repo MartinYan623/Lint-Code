@@ -139,6 +139,16 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 110 | 2021.01.07 | 37.Reverse 3-digit Integer | Naive
 | 111 | 2021.01.07 | 145.Lowercase to Uppercase | Naive
 | 112 | 2021.01.07 | 484.Swap Two Integers in Array | Naive
+| 113 | 2021.01.10 | 9.Fizz Buzz | Easy
+| 114 | 2021.01.10 | 133.Longest Word | Easy
+| 115 | 2021.01.10 | 372.Delete Node in a Linked List | Easy
+| 116 | 2021.01.11 | 97.Maximum Depth of Binary Tree | Easy
+| 117 | 2021.01.11 | 82.Single Number | Easy
+| 118 | 2021.01.11 | 175.Invert Binary Tree | Easy
+
+| 119 | 2021.01.13 | 375.Clone Binary Tree | Easy
+| 120 | 2021.01.13 | 157.Unique Characters | Easy
+| 121 | 2021.01.13 | 14.First Position of Target | Easy
 
 
 ## <a name='Maintainers'>Maintainers</a>
