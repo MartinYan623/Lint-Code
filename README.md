@@ -145,10 +145,19 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 116 | 2021.01.11 | 97.Maximum Depth of Binary Tree | Easy
 | 117 | 2021.01.11 | 82.Single Number | Easy
 | 118 | 2021.01.11 | 175.Invert Binary Tree | Easy
-
 | 119 | 2021.01.13 | 375.Clone Binary Tree | Easy
 | 120 | 2021.01.13 | 157.Unique Characters | Easy
 | 121 | 2021.01.13 | 14.First Position of Target | Easy
+| 122 | 2021.01.14 | 445.Cosine Similarity | Easy
+| 123 | 2021.01.14 | 181.Flip Bits | Easy
+| 124 | 2021.01.16 | 488.Happy Number | Easy
+| 125 | 2021.01.16 | 469.Same Tree | Easy
+| 126 | 2021.01.16 | 46.Majority Element | Easy
+| 127 | 2021.01.19 | 64.Merge Sorted Array | Easy
+| 128 | 2021.01.19 | 66.Binary Tree Preorder Traversal | Easy
+| 129 | 2021.01.19 | 67.Binary Tree Inorder Traversal | Easy
+| 130 | 2021.01.20 | 68.Binary Tree Postorder Traversal | Easy
+| 131 | 2021.01.20 | 365.Count 1 in Binary | Easy
 
 
 ## <a name='Maintainers'>Maintainers</a>
