@@ -158,12 +158,9 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 129 | 2021.01.19 | 67.Binary Tree Inorder Traversal | Easy
 | 130 | 2021.01.20 | 68.Binary Tree Postorder Traversal | Easy
 | 131 | 2021.01.20 | 365.Count 1 in Binary | Easy
-
-
 | 132 | 2021.01.22 | 539.Move Zeroes | Easy
 | 133 | 2021.01.22 | 491.Palindrome Number | Easy
 | 134 | 2021.01.22 | 569.Add Digits | Easy
-
 | 135 | 2021.01.26 | 422.Length of Last Word | Easy
 | 136 | 2021.01.26 | 517.Ugly Number | Easy
 
