@@ -163,6 +163,13 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 134 | 2021.01.22 | 569.Add Digits | Easy
 | 135 | 2021.01.26 | 422.Length of Last Word | Easy
 | 136 | 2021.01.26 | 517.Ugly Number | Easy
+| 137 | 2021.01.28 | 6.Merge Two Sorted Arrays | Easy
+| 138 | 2021.01.28 | 13.Implement strStr() | Easy
+| 139 | 2021.01.28 | 50.Product of Array Exclude Itself | Easy
+| 140 | 2021.01.31 | 80.Median | Easy
+| 141 | 2021.01.31 | 138.Subarray Sum | Easy
+| 142 | 2021.01.31 | 451.Swap Nodes in Pairs | Easy
+
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
