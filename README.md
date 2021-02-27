@@ -169,6 +169,8 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 140 | 2021.01.31 | 80.Median | Easy
 | 141 | 2021.01.31 | 138.Subarray Sum | Easy
 | 142 | 2021.01.31 | 451.Swap Nodes in Pairs | Easy
+| 143 | 2021.02.01 | 1.A+B Problem | Easy
+| 144 | 2021.02.01 | 69.Binary Tree Level Order Traversal | Easy
 
 
 ## <a name='Maintainers'>Maintainers</a>
