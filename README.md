@@ -31,7 +31,7 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 2 | 2020.08.07 | 454.Rectangle Area | Naive
 | 3 | 2020.08.07 | 463.Sort Integers | Naive
 | 4 | 2020.08.12 | 466.Count Linked List Nodes | Naive
-| 5 | 2020.08.12 | 632.Binary Tree Maximum Nodes </div>| Naive
+| 5 | 2020.08.12 | 632.Binary Tree Maximum Nodes | Naive
 | 6 | 2020.08.12 | 8.Rotate String | Easy
 | 7 | 2020.08.13 | 22.Flatten List | Easy
 | 8 | 2020.08.13 | 28.Search A 2D Matrix | Easy
@@ -109,7 +109,7 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 80 | 2020.11.19 | 1227.Repeated Substring Pattern | Easy
 | 81 | 2020.11.22 | 1228.Poor Pigs | Easy
 | 82 | 2020.11.22 | 1231.Minimum Moves to Equal Array Elements | Easy
-| 83 | 2020.11.22 | 1236.Find All Numbers Disappeared in an Arrayr | Easy
+| 83 | 2020.11.22 | 1236.Find All Numbers Disappeared in an Array | Easy
 | 84 | 2020.11.30 | 1254.Sum of Left Leaves | Easy
 | 85 | 2020.11.30 | 1266.Find the Difference | Easy
 | 86 | 2020.11.30 | 1270.Ransom Note | Easy
@@ -171,6 +171,14 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 142 | 2021.01.31 | 451.Swap Nodes in Pairs | Easy
 | 143 | 2021.02.01 | 1.A+B Problem | Easy
 | 144 | 2021.02.01 | 69.Binary Tree Level Order Traversal | Easy
+| 145 | 2021.02.03 | 177.Convert Sorted Array to Binary Search Tree With Minimal Height | Easy
+| 146 | 2021.02.03 | 158.Valid Anagram | Easy
+| 147 | 2021.02.03 | 165.Merge Two Sorted Lists | Easy
+| 148 | 2021.02.05 | 777.Valid Perfect Square | Easy
+| 149 | 2021.02.05 | 111.Climbing Stairs | Easy
+| 150 | 2021.02.05 | 173.Insertion Sort List | Easy
+| 151 | 2021.02.06 | 112.Remove Duplicates from Sorted List | Easy
+| 152 | 2021.02.06 | 93.Balanced Binary Tree | Easy
 
 
 ## <a name='Maintainers'>Maintainers</a>
