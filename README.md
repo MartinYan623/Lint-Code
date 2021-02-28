@@ -193,11 +193,12 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 164 | 2021.02.18 | 100.Remove Duplicates from Sorted Array | Easy
 | 165 | 2021.02.19 | 101.Remove Duplicates from Sorted Array II | Easy
 | 166 | 2021.02.19 | 661.Convert BST to Greater Tree | Easy
-
-| 167 | 2021.02.19 | 96.Partition List | Easy
-| 168 | 2021.02.20 | 96.Partition List | Easy
-| 169 | 2021.02.20 | 96.Partition List | Easy
-
+| 167 | 2021.02.19 | 172.Remove Element | Easy
+| 168 | 2021.02.23 | 1033.Minimum Difference Between BST Nodes | Easy
+| 169 | 2021.02.23 | 1360.Symmetric Tree | Medium
+| 170 | 2021.02.25 | 283.Max of 3 Numbers | Naive
+| 171 | 2021.02.25 | 484.Swap Two Integers in Array | Naive
+| 172 | 2021.02.25 | 1910.Most Numbers | Naive
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
