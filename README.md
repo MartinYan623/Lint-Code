@@ -184,11 +184,8 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 155 | 2021.02.07 | 452.Remove Linked List Elements | Easy
 | 156 | 2021.02.08 | 35.Reverse Linked List | Easy
 | 157 | 2021.02.08 | 41.Maximum Subarray | Easy
-
 | 158 | 2021.02.09 | 142.O(1) Check Power of 2 | Easy
 | 159 | 2021.02.09 | 96.Partition List | Easy
-
-
 
 
 ## <a name='Maintainers'>Maintainers</a>
