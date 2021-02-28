@@ -179,6 +179,16 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 150 | 2021.02.05 | 173.Insertion Sort List | Easy
 | 151 | 2021.02.06 | 112.Remove Duplicates from Sorted List | Easy
 | 152 | 2021.02.06 | 93.Balanced Binary Tree | Easy
+| 153 | 2021.02.07 | 749.John's backyard garden | Easy
+| 154 | 2021.02.07 | 457.Classical Binary Search | Easy
+| 155 | 2021.02.07 | 452.Remove Linked List Elements | Easy
+| 156 | 2021.02.08 | 35.Reverse Linked List | Easy
+| 157 | 2021.02.08 | 41.Maximum Subarray | Easy
+
+| 158 | 2021.02.09 | 142.O(1) Check Power of 2 | Easy
+| 159 | 2021.02.09 | 96.Partition List | Easy
+
+
 
 
 ## <a name='Maintainers'>Maintainers</a>
