@@ -186,6 +186,17 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 157 | 2021.02.08 | 41.Maximum Subarray | Easy
 | 158 | 2021.02.09 | 142.O(1) Check Power of 2 | Easy
 | 159 | 2021.02.09 | 96.Partition List | Easy
+| 160 | 2021.02.10 | 646.First Position Unique Character | Easy
+| 161 | 2021.02.10 | 166.Nth to Last Node in List | Easy
+| 162 | 2021.02.18 | 373.Partition Array by Odd and Even | Easy
+| 163 | 2021.02.18 | 85.Insert Node in a Binary Search Tree | Easy
+| 164 | 2021.02.18 | 100.Remove Duplicates from Sorted Array | Easy
+| 165 | 2021.02.19 | 101.Remove Duplicates from Sorted Array II | Easy
+| 166 | 2021.02.19 | 661.Convert BST to Greater Tree | Easy
+
+| 167 | 2021.02.19 | 96.Partition List | Easy
+| 168 | 2021.02.20 | 96.Partition List | Easy
+| 169 | 2021.02.20 | 96.Partition List | Easy
 
 
 ## <a name='Maintainers'>Maintainers</a>
