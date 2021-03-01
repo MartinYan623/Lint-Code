@@ -199,6 +199,14 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 170 | 2021.02.25 | 283.Max of 3 Numbers | Naive
 | 171 | 2021.02.25 | 484.Swap Two Integers in Array | Naive
 | 172 | 2021.02.25 | 1910.Most Numbers | Naive
+| 173 | 2021.02.25 | 1913.Query Student Enrollment Information | Naive
+| 174 | 2021.02.25 | 1919.Members Whose Scores Exceed the Group leader | Naive
+| 175 | 2021.02.25 | 1921.Players Who Never Recharge | Naive
+| 176 | 2021.02.25 | 1930.Public Rental Housing Information Query | Naive
+| 177 | 2021.02.25 | 1931.Find Specific Patient | Naive
+| 178 | 2021.02.25 | 1934.Zhang San's Story I | Naive
+| 179 | 2021.02.25 | 1938.Query User Email | Naive
+| 180 | 2021.02.25 | 1945.Club Annual Competition Score Ranking I | Naive
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
