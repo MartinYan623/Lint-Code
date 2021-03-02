@@ -208,6 +208,7 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 179 | 2021.03.01 | 1938.Query User Email | Naive
 | 180 | 2021.03.01 | 1945.Club Annual Competition Score Ranking I | Naive
 | 181 | 2021.03.01 | 25.Print X | Naive
+| 182 | 2021.03.02 | 838.Subarray Sum Equals K | Easy
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
