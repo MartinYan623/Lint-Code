@@ -209,6 +209,8 @@ If you are interested in algorithm problems, you could star 🌟 and watch 👀 
 | 180 | 2021.03.01 | 1945.Club Annual Competition Score Ranking I | Naive
 | 181 | 2021.03.01 | 25.Print X | Naive
 | 182 | 2021.03.02 | 838.Subarray Sum Equals K | Easy
+| 183 | 2021.04.21 | 1901.Squares of a Sorted Array | Easy
+| 184 | 2021.04.21 | 1503.Give Change | Easy
 
 ## <a name='Maintainers'>Maintainers</a>
 [@ Martin Yan](https://github.com/MartinYan623)<br />
